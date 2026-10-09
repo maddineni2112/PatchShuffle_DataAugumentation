@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloaded datasets and model artifacts
+data/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pkl
+checkpoints/
+
+# Local tooling and OS files
+.pytest_cache/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
