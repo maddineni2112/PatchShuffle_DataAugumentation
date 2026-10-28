@@ -98,7 +98,3 @@ The comparison uses the same CNN architecture and training settings for the base
 - Results depend on the hardware, PyTorch/torchvision versions, and runtime duration.
 - PatchShuffle currently operates on non-overlapping patches and ignores non-divisible border regions.
 - The repository is an experimental comparison rather than a production augmentation library.
-
-## License
-
-This project is released under the MIT License. See [`LICENSE`](LICENSE).
