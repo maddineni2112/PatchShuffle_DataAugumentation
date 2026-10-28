@@ -78,7 +78,7 @@ pip install -r requirements.txt
 jupyter notebook Data_Augmentation_CodeFile.ipynb
 ```
 
-The notebook downloads CIFAR-10 through `torchvision` when the dataset is not present. The raw dataset is intentionally not committed to this repository.
+The notebook downloads CIFAR-10 through `torchvision` when the dataset is not present.
 
 ## Method details
 
